@@ -1,0 +1,18 @@
+name: sp
+
+dependencies:
+  - holoviews>=1.12.4
+  - matplotlib>=3.1.2
+  - networkx>=2.5
+  - numpy>=1.18.1
+  - pandas>=1.0.3
+  - python>=3.6
+  - scipy>=1.3.2
+  - seaborn>=0.9.0
+  - shapely>=1.6.4
+  - xlrd>=1.2.0
+  - numba>=0.34
+  - tqdm
+  - pip
+  - pip:
+    - git+https://github.com/hsaal/touchsim.git
